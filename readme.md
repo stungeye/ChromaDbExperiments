@@ -1,6 +1,7 @@
 # Chroma DB Experiments
 
 Environment: WSL2 for Windows 11 with Ubuntu 22.04 and Python 3.10.x with venv
+
 Editor: VS Code with WSL, Python, and Pylance extensions 
 
 The Python virtual environment was configured as follows:
